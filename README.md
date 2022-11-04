@@ -15,5 +15,5 @@
 4. Fusionar rama `[@usuario]` con rama `main`.
 5. Eliminar rama `[@usuario]`.
 6. Agregar repositorio remoto generado [aquí](https://classroom.github.com/a/YT5BgtFq).
-6. Enviar modificaciones a Github de reciente creación.
-7. Solicitar revision al docente.
+7. Enviar main a repositorio remoto recien agregado en el punto anterior.
+8. Solicitar revision al docente.
