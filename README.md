@@ -14,6 +14,6 @@
 
 4. Fusionar rama `[@nombrepm]` con rama `main`.
 5. Eliminar rama `[@nombrepm]`.
-6. Agregar repositorio remoto generado [aquí](https://classroom.github.com/a/YT5BgtFq).
+6. Agregar repositorio remoto generado [aquí](https://classroom.github.com/a/TxPSnOVi).
 7. Enviar main a repositorio, agredado en el paso anterior.
 8. Solicitar revision al docente.
