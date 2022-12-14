@@ -3,8 +3,8 @@
 ## Puntos a evaluar
 
 1. Clonar el repositorio.
-2. Crear de una rama de **main** con el nombre  `[@usuario]`.
-3. Realizar modificaciones al archivo `index.html`.
+2. Crear de una nueva rama con tu nombre e iniciales de apellidos `[@nombrepm]`.
+3. Realizar modificaciones al archivo `index.html`, posteriormente guardarlas.
 
 ![Alt text](image.png)
 >
@@ -12,8 +12,8 @@
 > - Modificar texto y url btn con tu usuario de github.
 > - Modificar elementos solicitados a las listas.
 
-4. Fusionar rama `[@usuario]` con rama `main`.
-5. Eliminar rama `[@usuario]`.
+4. Fusionar rama `[@nombrepm]` con rama `main`.
+5. Eliminar rama `[@nombrepm]`.
 6. Agregar repositorio remoto generado [aquí](https://classroom.github.com/a/YT5BgtFq).
-7. Enviar main a repositorio remoto recien agregado en el punto anterior.
+7. Enviar main a repositorio, agredado en el paso anterior.
 8. Solicitar revision al docente.
